@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Distribuidores
+cantidad: 10
 permalink: /distribuidores/
 ---
 
